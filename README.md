@@ -1,4 +1,4 @@
-![Nature's_Platter_Desktop](https://github.com/user-attachments/assets/2701a372-be87-4ace-b6c8-da950866d63e)# 🌿 Nature Platter - Freshness You Can Count On
+# 🌿 Nature Platter - Freshness You Can Count On
 
 Nature Platter is a modern, clean, and responsive landing page designed for showcasing grocery or organic product services. Built using HTML and Tailwind CSS, it emphasizes usability, mobile-responsiveness, and fresh design aesthetics.
 
@@ -13,8 +13,8 @@ Nature Platter is a modern, clean, and responsive landing page designed for show
 
 ## 📸 Preview
 
-![Preview](/images/Natur's_Platter_Desktop.png)
-![Preview](/images/Natur's_Platter_Mobile.png)
+![Preview](images/Nature's_Platter_Desktop.png)
+![Preview](images/Nature's_Platter_Mobile.jpg)
 
 ## 🚀 Technologies Used
 
