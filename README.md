@@ -13,7 +13,10 @@ Nature Platter is a modern, clean, and responsive landing page designed for show
 
 ## 📸 Preview
 
+## Desktop View
 ![Preview](images/Nature's_Platter_Desktop.png)
+
+## Mobile View
 ![Preview](images/Nature's_Platter_Mobile.jpg)
 
 ## 🚀 Technologies Used
